@@ -1,0 +1,23 @@
+body
+{
+  background-color: #c2c2c2;
+}
+.fixed1
+{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: fixed;
+  left: 80px;
+  top: 80px;
+}
+.fixed2
+{
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: fixed;
+  left: 220px;
+  top: 120px;
+  }
+

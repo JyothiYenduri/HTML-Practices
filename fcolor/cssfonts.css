@@ -1,0 +1,17 @@
+p.a{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: oblique;
+}
+p.b{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:palevioletred;
+    font-style: italic;
+}
+p.c
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: goldenrod;
+    font-size: large;
+    font-weight: 500;
+}

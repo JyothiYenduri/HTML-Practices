@@ -1,0 +1,18 @@
+h1
+{
+text-align:center;
+color:deeppink;
+text-overflow: clip;
+}
+h2{
+    text-align: left;
+    color:fuchsia
+}
+h3{
+    text-align: justify;
+    color:yellowgreen;
+}
+h4{
+    text-align: right;
+    color: brown;
+}

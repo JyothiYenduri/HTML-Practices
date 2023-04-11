@@ -1,0 +1,18 @@
+.logo1
+{
+  float: left;
+}
+
+.logo2
+{
+  float: right;
+}
+p{
+  text-align: justify;
+}
+img
+{
+  width: 170px;
+  height: 170px;
+  margin-left: 15px;
+  }

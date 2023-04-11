@@ -1,0 +1,526 @@
+welcome.html
+-------------
+
+<!--Comment lines -->
+
+<!DOCTYPE html>
+
+<html>
+
+<title>
+
+This is my first HTML program
+
+</title>
+
+<body>
+
+Welcome to first HTML program ranju
+
+</body>
+
+</html>
+
+-------------------------------------------
+htmltags
+--------
+
+<!--  HTML COMMENT LINE  -->
+<!DOCTYPE html>
+       <head>
+              <title>Welcome to My Webite</title>
+      </head>
+      <body>            <b>WELCOME TO FIRST HTML PROGRAM</b>  <br>
+           <strong>WELCOME TO FIRST HTML PROGRAM</strong>
+               <br><br>
+                  <i>WELCOME TO FIRST HTML PROGRAM</i> <br>
+                  <em>WELCOME TO FIRST HTML PROGRAM</em> 
+               <br><br>
+                  <u>WELCOME TO FIRST HTML PROGRAM</u> 
+               <br><br>
+                 <b><i><u>WELCOME TO FIRST HTML PROGRAM</u></i></b>
+               <br><br>
+                          SUBSCRIPT:  H<sub>2</sub>SO<sub>4</sub>     
+                <br><br>
+                            SUPERSCRIPT: 1<sup>st</sup>
+                <br><br>
+                            Rs. <strike>250/-</strike>  100/- only
+                  <br>
+                           <s>Welcome</s>
+                    <br>
+                          <del>Welcome</del>
+                   <br><br>
+          <blockquote>
+                    Explanation: The inner join is a form of join in <mark>MySQL</mark> that is used to combine the result of concatenating the contents of two tables into a new table. In inner join,<q> result is produced by matching rows</q> in one table with rows in another table.
+            </blockquote>
+               <br><br>
+             <big><big>
+               Explanation: The inner join is a form of join
+             </big></big>
+            <br><br>
+welcome to&nbsp;bitlabs
+<br>
+&copy;&euro;&#8377
+   <small>
+   Explanation: The inner join is a form of join
+   </small>
+     </body>
+</html>
+-----------------------------
+fcolor
+-------------
+<!--  HTML COMMENT LINE  -->
+<!DOCTYPE html>
+<head>
+<title>Welcome to My Webite</title>
+</head>
+<body bgcolor="pink"><font color="purple" size="6" face="Comic Sans MS">
+      Explanation: The inner join is a form of join in MySQL that is used to combine the result of concatenating the contents of two tables into a new table.
+       In inner join,<q> result is produced by matching rows</q> in one table with rows in another table.
+</font>    
+</small>
+</body>
+</html>
+-------------------------------------------------------------
+paragraph
+--------
+<!--  HTML COMMENT LINE  -->
+<!DOCTYPE html>
+       <head>
+              <title>Welcome to My Webite</title>
+      </head>
+      <body>
+<p align="center">
+   Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.    </p>
+<p align="right">
+   Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.   
+</p>
+<p align="justify">
+   Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.Explanation: An SQL join clause combines records from two or more tables in a database. It creates a set that can be saved as a table or used as it is. A JOIN is a means for combining fields from two tables by using values common to each.   
+  </p>
+     </body>
+</html>
+
+-------------------------------------------------
+align
+-----
+<!-- Comment line-->
+<!DOCTYPE html>
+<head>
+<title> allign </title>
+</head>
+<body>
+<h1 align="center"> Ranjitha Lokande </h1>
+<h2> Ranjitha Lokande </h2>
+<h3 align="left"> Ranjitha Lokande </h3>
+<h4> Ranjitha Lokande </h4>
+<h5 align="right"> Ranjitha Lokande </h5>
+<h6> Ranjitha Lokande </h6>
+</body>
+</html>
+-----------------------------------
+image
+-----
+
+<!DOCTYPE html>
+<head> image display</head>
+<body>
+<img src="002.jpg" width="300" height ="400" border="4" title="Ranju">
+</body>
+</html>
+ ------------------------------------------------
+assignment
+-----------
+<!DOCTYPE HTML>
+<head>
+<title>HomeWork</title>
+</head>
+<BODY>
+<dl>
+<dt>Preceding Text</dt>
+<ol type="I">
+<li>List Item1</li>
+<ol type="a">
+<li>Nested Item 1.1</li>
+<li>Nested Item 1.2</li>
+</ol>
+<li>List Item2</li>
+<ol type="1">
+<li>Nested Item 2.1</li>
+<li>Nested Item 2.2</li>
+<ul type="circle">
+<li>Nested Item 2.2.1</li>
+<li>Nested Item 2.2.2</li>
+<ul type="square">
+<li>Nested Item 2.2.2.1</li>
+<li>Nested Item 2.2.2.2</li>
+</ul>
+<li>Nested Item 2.2.3</li>
+</ul>
+<li>Nested Item 2.3</li>
+</ol>
+<li>List Item3</li>
+<ul type="disc">
+<li>Nested Item 3.1</li>
+<li>Nested Item 3.1</li>
+<li>Nested Item 3.1</li>
+</ul>
+</ol>
+</dl>
+</BODY>
+</HTML>
+-------------------------------------------------------------------------------
+marquee
+----------
+<!DOCTYPE html>
+<head>
+<title> marquee </title>
+</head>
+<body>
+<marquee bgcolor="cyan" >Ranjitha Lokande </marquee>
+<marquee bgcolor="orange" direction="right>Ranjitha Lokande </marquee>
+<marquee bgcolor="pink" behavior="alternate">Ranjitha Lokande </marquee>
+<marquee bgcolor="yellow" direction="right" scrollamount="50" hspace="50" vspace="50">Ranjitha Lokande </marquee>
+
+</body>
+</html>
+----------------------------------------------------------
+horizontal rule-
+-------------
+<!DOCTYPE html>
+<head>
+<title> horizontal rule</title>
+</head>
+<body>
+<hr>
+<hr color="red">
+<hr color="red" width="400px">
+<hr color="green" width="400px" align="left">
+<hr color="#FF00FF" width="400px" size="20">
+</body>
+</html>
+---------------------------------------
+divtag
+-----------
+<!DOCTYPE html>
+<head>
+<title> Div tag </title>
+</head>
+<div align="left"> Ranjitha Lokande</div>
+<div align="center"> Ranjitha Lokande</div>
+<div align="right"> Ranjitha Lokande</div>
+</body>
+</html>
+---------------------------------------------
+Table
+------
+
+<!DOCTYPE html>
+<head>
+<title> Tables</title>
+</head>
+<body background="002.jpg">
+<table border="1" bgcolor="orange" align="center" width="300" height="250" cellpadding="50" cellspacing="10">
+<caption> STUDENT DETAILS</caption>
+<tr>
+<th>SNO</th>
+<th>SNAME</th>
+<th>SAVG</th>
+</th>
+<tr>
+<td>1</td>
+<td>Ranju</td>
+<td>88%</td>
+</tr>
+<tr>
+<td>2</td>
+<td>
+Manju</td>
+<td>80%</td>
+</tr>
+<tr>
+<td>3</td>
+<td>Vyju</td>
+<td>85%</td>
+</tr>
+</table>
+</body>
+</html>
+-------------------------------------------------------------
+rowspan and colspan
+----------------------
+
+<!DOCTYPE html>
+<head>
+<title>
+colspan rowspan
+</title>
+</head>
+<body>
+<table border="1">
+<tr>
+<th>Name</th>
+<th colspan="2">Telephone</th>
+<tr>
+<td>Ranju</td>
+<td>7483687576</td>
+<td>9535987495</td>
+</tr>
+</table>
+<br><br>
+
+<table border="1">
+<tr>
+<th>Name</th>
+<th>Ranju</th>
+<tr>
+<tr>
+<th rowspan="2">Telephone</th>
+<td>7483687576</td>
+</tr>
+<tr>
+<td>9535987495</td>
+</tr>
+</table>
+</body>
+</html>
+-----------------------------------------------------------
+Forms
+---------
+
+<!DOCTYPE html>
+<head>
+<title>form</title>
+</head>
+<body>
+<form name="f1">
+FIRSTNAME: <input type="text" name="text" size="30" value="bitlabs" required>*
+<br><br>
+FIRSTNAME: <input type="text" name="text" size="30" placeholder="text">
+
+password: <input type="password" name="pwd" value="Bitlabs">
+<br> <br>
+Confirm password: <input type="password" name="pwd" placeholder="Enter Password">
+
+</form>
+</body>
+</html>
+-----------------------------------------------------------------------------------
+Radio button
+--------------
+<!DOCTYPE html>
+<head>
+<title>Radio button</title>
+</head>
+<body>
+<form name="f1">
+<h2>Select your gender:</h2>
+<input type="radio" name="m" value="Male">MALE
+<input type="radio" name="m" value="Female">FEMALE
+</form>
+</body>
+</html>
+--------------------------------------------------------------
+checkbox
+-----------
+<!DOCTYPE html>
+<head>
+<title>Radio button</title>
+</head>
+<body>
+<form name="f1">
+<h2>Select your qualification:</h2>
+<input type="checkbox"  name="ch" value="10th" checked>Tenth<br>
+<input type="checkbox"  name="ch" value="Puc" checked>Puc<br>
+<input type="checkbox"  name="ch" value="B.E" checked>B.E<br>
+<input type="checkbox"  name="ch" value="M.Tech" checked>M.Tech<br>
+<input type="checkbox"  name="ch" value="Phd" checked>Phd<br>
+</form>
+</body>
+</html>
+---------------------------------------------------------------------
+button
+---------
+
+<!DOCTYPE html>
+<head>
+<title>Submit,reset</title>
+</head>
+<body>
+<form name="f1">
+<input type="text" name="txt">
+<h2>Push Button:</h2>
+<input type="button" name="name" value="Push Button">
+<h2>Submit Button:</h2>
+<input type="submit" name="name" value="Sumbit">
+<h2>Push Button:</h2>
+<input type="reset" name="name" value="Reset">
+</form>
+</body>
+</html>
+--------------------------------------------------------------------------
+textarea
+----------
+<!DOCTYPE html>
+<head>
+<title> Text Area</title>
+</head>
+<body>
+<form name="f1">
+<h2>Address</h2>
+<textarea name ="add" rows="3" cols="10" placeholder="Enter Address">
+</textarea>
+</form>
+</body>
+</html>
+
+-------------------------------------------------
+Latest tags in HTML
+------------------------
+
+<!DOCTYPE html>
+<head>
+<title> Latest Tags in HTML</title>
+</head>
+<body>
+<form name="f1">
+<fieldset>
+<legend>Latest Tags in HTML5</legend>
+<input type="date" name="name"><br><br>
+<input type="time" name="name"><br><br>
+<input type="datetime-local" name="name"><br><br>
+<input type="color" name="name"><br><br>
+<input type="email" name="name"><br><br>
+<input type="url" name="name"><br><br>
+<input type="number" name="name" min="1" max="20"><br><br>
+<input type="range" name="name" min="1" max="20"><br><br>
+<input type="file" name="name"><br><br>
+<button type="submit>Submit </botton>
+</fieldset>
+</form>
+</body>
+</html>
+------------------------------------------------------------------------------
+Datalist tag
+--------------
+<!DOCTYPE html>
+<head>
+<title> Datalist Tags in HTML</title>
+</head>
+<body>
+<form name="f1">
+<h3>Select your District:</h3>
+<input list="dist" name="districts">
+<datalist id="dist">
+<option value="Mysore">
+<option value="Banglore">
+<option value="Ramanagara">
+<option value="Kolar">
+<option value="Mandya">
+</datalist>
+</form>
+</body>
+</html>
+--------------------------------------------
+iframe
+-----------
+<!DOCTYPE html>
+<head>
+<title> iframe</title>
+</head>
+<body>
+<iframe src="https://www.bitlabs.in/" width="100%" height="100%" frameborder="no"></iframe>
+</body>
+</html>
+---------------------------------------------------------
+Inline stylesheet
+----------------------------
+<!DOCTYPE html>
+<head>
+<title>CSS Inline style sheet</title>
+<body style="background-color:pink;">
+<h1 style="color:green;text-align:center;font-size:60px;">Welcome To CSS</h1>
+<h1 style="color:blue;font-size:50px;text-shadow:5px 5px 5px gray;">Ranju</h2>
+<p style="color:purple:text-align:justify;font-size:20px;border:5px solid black;padding:15px;box-shadows:5px 5px 5px gray;">
+Ranju is a good girl
+</p>
+<p style="color:white:text-align:justify;font-size:15px;border:5px solid green;padding:15px;box-shadows:5px 5px 5px gray;"">
+She is an Engineer
+</p>
+</body>
+</html>
+
+---------------------------------------------------------
+Internal style sheet
+-----------------------------
+
+<!DOCTYPE html>
+<head>
+<title>CSS Internal style sheet</title>
+<style sheet="text/css">
+body
+{
+bacground-color":black;
+}
+h1 { color:orange;text-align:center;font-size:60px;}
+p
+{
+color:black;
+text-align:justify;
+font-size:40px;
+border:5px solid green;
+box-shadow:5px 5px 5px gray;
+}
+</style>
+</head>
+<body>
+<h1> welcome to CSS</h1>
+<h2 style="color:blue;font-size:50px;text-shadow:5px 5px 5px gray;">Ranju</h2>
+<p >
+Ranju is a good girl
+</p>
+<p >
+She is an Engineer
+</p>
+</body>
+</html>
+-----------------------------------------------------------------------
+External style sheet
+-----------------------------
+extern.css
+-------------
+body
+{
+bacground-color":black;
+}
+h1 { color:white;text-align:center;font-size:60px;}
+h2 { color:blue;font-size:50px;text-shadow:5px 5px 5px gray;}
+p
+{
+color:white;
+text-align:justify;
+font-size:40px;
+border:5px solid green;
+padding: 15px;
+box-shadow:5px 5px 5px gray;
+}
+------------------------------------------------------------------------
+<!DOCTYPE html>
+<head>
+<link rel ="style sheet" type="text/css" href="extern.css">
+<title>CSS External style sheet</title>
+<style sheet="text/css">
+
+</style>
+</head>
+<body>
+<h1> welcome to CSS</h1>
+<h2 style="color:blue;font-size:50px;text-shadow:5px 5px 5px gray;">Ranju</h2>
+<p >
+Ranju is a good girl
+</p>
+<p >
+She is an Engineer
+</p>
+</body>
+</html>

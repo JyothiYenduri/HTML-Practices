@@ -1,0 +1,21 @@
+body
+{
+  background-color: #c2c2c2;
+}
+.static1
+{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: static;
+}
+.relative
+{
+  width: 100px;
+  height: 100px;
+  background-color: yellow;
+  position: relative;
+  left: 70px;
+  top: 20px;
+  
+}

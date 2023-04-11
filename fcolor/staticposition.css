@@ -1,0 +1,23 @@
+body
+{
+  background-color: #c2c2c2;
+}
+.static1
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(90, 167, 92);
+  position: static;
+  left: 100px;
+  top: 100px;
+}
+.static2
+{
+  width: 100px;
+  height: 100px;
+  background-color: rgb(178, 178, 8);
+  position: static;
+  left: 100px;
+  top: 100px;
+  
+}

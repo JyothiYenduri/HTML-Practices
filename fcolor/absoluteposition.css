@@ -1,0 +1,13 @@
+body
+{
+  background-color: #c2c2c2;
+}
+.absolute
+{
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  position: absolute;
+  left: 100px;
+  top: 80px;
+}
